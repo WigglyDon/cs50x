@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang",
+            "compilerArgs": [
+                "-lcs50",
+                "-o"
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c89"
+        }
+    ],
+    "version": 4
+}
